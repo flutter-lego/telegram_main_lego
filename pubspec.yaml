@@ -1,7 +1,7 @@
 name: telegram_main_lego
-description: "lego is all you need"
+description: "beautiful telegram main page by june"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/telegram_main_lego
 
 version: 1.0.0
 
